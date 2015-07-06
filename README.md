@@ -3,6 +3,8 @@ Coder Cooperative
 
 This repository exists as a sandbox to familiarize ones self with git and Github.
 
+Feel free to play, break stuff, and learn about git+Github.
+
 Useful reading:
 
 * https://help.github.com/
